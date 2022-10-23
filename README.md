@@ -1,5 +1,4 @@
 # Project_1
 This is my Internship Project E-commerce website.
-This needs node.js in your machin..
-To get results you need to creat database as rquired by the application.
-Pay pal is required to check for the payment details. 
+The node module is also present which you need not to copy if you know about the node.js.
+There are some improvisations to be done.
